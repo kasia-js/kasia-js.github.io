@@ -38,8 +38,8 @@ export const projectsData = [
       'Elit is a web app created to provide a platform for developers to connect.create.collaborate(). Users log in with their GitHub account to find people to collaborate on their projects or join others to help them.',
     info2:
       'Tech stack: React, Redux, Apollo-GraphQL, Sequelize, PostgreSQL, Material UI, Bootstrap, Formik.',
-    url: 'https://kasia-js.github.io/websiteInConsruction/',
-    repo: 'https://github.com/kasia-js/elit',
+    url: 'https://github.com/kasia-js/elit',
+    repo: 'https://kasia-js.github.io/websiteInConsruction/',
   },
   {
     id: nanoid(),
@@ -49,8 +49,8 @@ export const projectsData = [
       'A web app created to provide information about events around the world on a given date. When a user opens the site, the facts of today are displayed. Then the user can search for any other date, select the most popular date from the cloud tag provided, and add facts to favorites.',
     info2:
       'Tech-stack: React, JavaScript, Node.js, Express, MongoDB, Mongoose, HTML, Bootstrap, CSS.',
-    url: 'https://today-facts.herokuapp.com/#',
-    repo: 'https://github.com/kasia-js/TodayFacts', // if no repo, the button will not show up
+    url: 'https://github.com/kasia-js/TodayFacts',
+    repo: 'https://today-facts.herokuapp.com/#', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -58,8 +58,8 @@ export const projectsData = [
     title: 'Movie Gallery',
     info: 'A front-end web app displaying movies using Heroku API.',
     info2: 'Tech-stack: React, JavaScript, MaterialUI, HTML, CSS.',
-    url: 'https://kasia-js.github.io/websiteInConsruction/',
-    repo: 'https://github.com/kasia-js/react-gallery', // if no repo, the button will not show up
+    url: 'https://github.com/kasia-js/react-gallery',
+    repo: 'https://kasia-js.github.io/websiteInConsruction/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -68,8 +68,8 @@ export const projectsData = [
     info:
       'navigation-bar-component-for-react is a simple and customizable component to quickly create a navigation bar for your React UI.',
     info2: 'Tech stack: Typescript, React, Jest, CSS, HTML.',
-    url: 'https://kasia-js.github.io/websiteInConsruction/',
-    repo: 'https://github.com/kasia-js/KHMNavBar', // if no repo, the button will not show up
+    url: 'https://github.com/kasia-js/KHMNavBar',
+    repo: 'https://kasia-js.github.io/websiteInConsruction/', // if no repo, the button will not show up
   },
 ];
 
